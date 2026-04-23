@@ -11,6 +11,7 @@ The motor performs:
 This project introduces stepper motor control concepts such as step signals, direction control, and acceleration techniques.
 
 ![Photo](images/stepper.png)
+![ghg](ghgh.jpeg)
 
 ---
 
